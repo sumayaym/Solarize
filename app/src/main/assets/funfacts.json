@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Kilometer kjørt med elbil",
+    "fact": "Med produsert energi for denne måneden kan du kjøre ca. $0$ km med elbil.",
+    "formula": "$energyProduced / 0.2"
+  },
+  {
+    "title": "Antall vask med vaskemaskin",
+    "fact": "Du har produsert nok energi til ca. $0$ vask med vaskemaskinen for denne måneden.",
+    "formula": "$energyProduced / 0.5"
+  },
+  {
+    "title": "Dager med TV-titting",
+    "fact": "Du kan se på TV i ca. $0$ dager (24 timer i døgnet) med den produserte energien for denne måneden.",
+    "formula": "$energyProduced / 0.2 / 24"
+  }
+]
